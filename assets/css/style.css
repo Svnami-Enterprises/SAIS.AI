@@ -50,3 +50,14 @@ ul {
   z-index: -1;
 }
 
+.waitlist {
+  border: 2px solid var(--tertiary);
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.section-space {
+  
+  color: yellow; 
+}
+
